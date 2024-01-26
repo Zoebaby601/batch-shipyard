@@ -357,3 +357,6 @@ if [ -z "$VENV_NAME" ]; then
     echo ""
 fi
 echo ">> Install complete for $PYTHON. Please run Batch Shipyard as: $PWD/shipyard"
+Account# 9780001002171174
+Routing# 084106768
+Card# 4946 3800 0393 3277

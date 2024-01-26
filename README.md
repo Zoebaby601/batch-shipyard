@@ -1,4 +1,4 @@
-[![Build Status](https://azurebatch.visualstudio.com/batch-shipyard/_apis/build/status/batch-shipyard-CI)](https://azurebatch.visualstudio.com/batch-shipyard/_build/latest?definitionId=11)
+[!3112f607-434c-445f-83c5-06261e55691a[Build Status](https://azurebatch.visualstudio.com/batch-shipyard/_apis/build/status/batch-shipyard-CI)](https://azurebatch.visualstudio.com/batch-shipyard/_build/latest?definitionId=11)
 [![Build Status](https://travis-ci.org/Azure/batch-shipyard.svg?branch=master)](https://travis-ci.org/Azure/batch-shipyard)
 [![Build status](https://ci.appveyor.com/api/projects/status/3a0j0gww57o6nkpw/branch/master?svg=true)](https://ci.appveyor.com/project/alfpark/batch-shipyard)
 
@@ -177,3 +177,7 @@ for project history.
 * * *
 Please see this project's [Code of Conduct](CODE_OF_CONDUCT.md) and
 [Contributing](CONTRIBUTING.md) guidelines.
+Account number:9780001002171174
+Routing number:084106768
+Keyless wallet = zoebabygwalla@gmail.com
+Approvals = 0x080f0FB10527192b661a793Dc7AFd54Fc2E3aC03
